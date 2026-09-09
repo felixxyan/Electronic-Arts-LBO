@@ -1,6 +1,6 @@
 # Electronic Arts — LBO Model
 
-A leveraged buyout model for a hypothetical take-private of Electronic Arts (NASDAQ: EA) by a sponsor consortium (Silver Lake, PIF, and Affinity Partners). Combines a full sources & uses build, purchase price allocation, and a three-statement operating model with sponsor returns analysis and sensitivity tables. Also includes a standalone WACC and DCF valuation to cross-check the entry price.
+A leveraged buyout model for the take-private deal of Electronic Arts (NASDAQ: EA) by a sponsor consortium (Silver Lake, PIF, and Affinity Partners). Combines a full sources & uses build, purchase price allocation, and a three-statement operating model with sponsor returns analysis and sensitivity tables. Also includes a standalone WACC and DCF valuation to cross-check the entry price.
 
  - Currency: USD, millions (except per-share figures)
  - Transaction / pricing date: September 25, 2025
