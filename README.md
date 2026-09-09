@@ -43,4 +43,4 @@ Sources & uses → Purchase price allocation → Pro forma financials → Debt p
 
 ## Disclaimer
 
-This model is a hypothetical modeling exercise for educational and illustrative purposes only. It does not represent an actual, announced, rumored, or endorsed transaction, and none of the assumptions, projections, or outputs should be relied upon for investment or business decisions.
+This model is an independently built educational exercise modeling the announced take-private of Electronic Arts by Silver Lake, PIF, and Affinity Partners. It is not affiliated with, endorsed by, or sourced from any of the parties to the transaction. Figures, assumptions, and projections are illustrative estimates and may differ from actual deal terms, financing structure, or company disclosures — do not rely on this model for investment or business decisions.
